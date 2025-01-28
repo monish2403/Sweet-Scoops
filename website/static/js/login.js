@@ -12,3 +12,6 @@ signInLink.addEventListener('click', () => {
     wrapper.classList.remove('animate-signIn');
 });
 
+const a = 10;
+const b = 10;
+console.log(a + b);
